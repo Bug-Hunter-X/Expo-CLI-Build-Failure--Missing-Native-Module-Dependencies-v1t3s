@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI and attempting to run an app that uses a native module which is not properly configured or linked.  It might manifest as a cryptic error message during the build process or a runtime crash related to missing native module dependencies.  The exact error message varies depending on the native module and the platform (Android or iOS).
